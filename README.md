@@ -1,108 +1,88 @@
-# 🎥 Enterprise Zoom Clone
+<h1 align="center">Hi 👋, I'm Abhijit Zade</h1>
 
-> A modern video conferencing platform built using React.js, Node.js, Express.js, MongoDB, Socket.IO and WebRTC.
+<p align="center">
+  <b>Java Backend Developer</b>
+</p>
 
----
-
-## 📌 Project Description
-
-Enterprise Zoom Clone is a real-time video conferencing application that allows users to create and join secure meetings with chat, screen sharing, and authentication.
-
----
-
-## ✨ Features
-
-- 🔐 User Authentication
-- 🎥 HD Video Calls
-- 💬 Real-time Chat
-- 🖥️ Screen Sharing
-- 👥 Meeting Rooms
-- 📱 Responsive Design
+<p align="center">
+Building scalable backend applications with Java & Spring Boot 🚀
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Frontend
-- React.js
-- HTML5
-- CSS3
-- JavaScript
+- 💻 Java Backend Developer
+- 🌱 Learning Spring Boot, Microservices & System Design
+- 🚀 Currently building **Enterprise Zoom Clone**
+- 💬 Interested in Backend Development
+- 🎯 Goal: Become an Enterprise Java Backend Engineer
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,cpp" />
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- Socket.IO
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
 ### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,maven" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎥 Enterprise Zoom Clone
+
+Real-time video conferencing platform built with:
+
+- React.js
+- Node.js
+- Express.js
 - MongoDB
-
-### Other
+- Socket.IO
 - WebRTC
-- JWT
-- Git
+
+### 🤖 Sentiment Analysis using Deep Learning
+
+AI-powered sentiment analysis project using:
+
+- Python
+- TensorFlow
+- Flask
+- NLP
 
 ---
 
-## 📸 Screenshots
+## 📫 Connect
 
-| Home | Meeting |
-|------|----------|
-| Add Screenshot | Add Screenshot |
+📧 **Email:** zadeabhijit5@gmail.com
 
----
+💼 **LinkedIn:** https://linkedin.com/in/abhijit-zade
 
-## ⚙️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/Abhijit1617/enterprise-zoom-clone.git
-
-# Go to project folder
-cd enterprise-zoom-clone
-
-# Install dependencies
-npm install
-
-# Start the application
-npm run dev
-```
+🐙 **GitHub:** https://github.com/Abhijit1617
 
 ---
 
-## 📂 Folder Structure
-
-```
-enterprise-zoom-clone
-│
-├── client
-├── server
-├── README.md
-└── package.json
-```
-
----
-
-## 🚀 Future Improvements
-
-- 📅 Meeting Scheduling
-- ☁️ Cloud Recording
-- 🔔 Notifications
-- 👨‍💼 Role-Based Access
-- 📱 Mobile Support
-
----
-
-## 👨‍💻 Author
-
-**Abhijit Zade**
-
-📧 zadeabhijit5@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/abhijit-zade
-
-🐙 GitHub: https://github.com/Abhijit1617
-
----
-
-⭐ If you like this project, consider giving it a star.
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
