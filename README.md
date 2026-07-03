@@ -1,114 +1,108 @@
-<h1 align="center">Hi 👋, I'm Abhijit Zade</h1>
+# 🎥 Enterprise Zoom Clone
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer" />
-</p>
-
-<p align="center">
-  <b>Java Backend Developer | Spring Boot | REST APIs | MySQL | JWT</b>
-</p>
-
-<p align="center">
-Building scalable backend applications 🚀
-</p>
+> A modern video conferencing platform built using React.js, Node.js, Express.js, MongoDB, Socket.IO and WebRTC.
 
 ---
 
-# 👨‍💻 About Me
+## 📌 Project Description
 
-- 💻 Java Backend Developer
-- 🚀 Currently building **Enterprise Zoom Clone**
-- 🌱 Learning **Spring Boot, Microservices, Docker & System Design**
-- 💬 Ask me about **Java, Spring Boot, REST APIs & MySQL**
-- 🎯 Goal: Become an Enterprise Java Backend Engineer
+Enterprise Zoom Clone is a real-time video conferencing application that allows users to create and join secure meetings with chat, screen sharing, and authentication.
 
 ---
 
-# 🛠 Tech Stack
+## ✨ Features
 
-### Languages
+- 🔐 User Authentication
+- 🎥 HD Video Calls
+- 💬 Real-time Chat
+- 🖥️ Screen Sharing
+- 👥 Meeting Rooms
+- 📱 Responsive Design
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,cpp" />
-</p>
+---
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
+## 🛠️ Tech Stack
 
 ### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,maven" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🎥 Enterprise Zoom Clone
-
-**Tech Stack**
-
 - React.js
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
 - Node.js
 - Express.js
-- MongoDB
 - Socket.IO
+
+### Database
+- MongoDB
+
+### Other
 - WebRTC
-
-**Features**
-
-- Video Meetings
-- Screen Sharing
-- Chat
-- Authentication
+- JWT
+- Git
 
 ---
 
-## 🤖 Sentiment Analysis using Deep Learning
+## 📸 Screenshots
 
-**Tech Stack**
-
-- Python
-- TensorFlow
-- Flask
-- NLP
-
-**Features**
-
-- Tweet Sentiment Analysis
-- Deep Learning Model
-- Web Interface
+| Home | Meeting |
+|------|----------|
+| Add Screenshot | Add Screenshot |
 
 ---
 
-# 📫 Connect
+## ⚙️ Installation
 
-📧 **Email:** zadeabhijit5@gmail.com
+```bash
+# Clone the repository
+git clone https://github.com/Abhijit1617/enterprise-zoom-clone.git
 
-💼 **LinkedIn:** https://linkedin.com/in/abhijit-zade
+# Go to project folder
+cd enterprise-zoom-clone
 
-🐙 **GitHub:** https://github.com/Abhijit1617
+# Install dependencies
+npm install
+
+# Start the application
+npm run dev
+```
 
 ---
 
-<p align="center">
+## 📂 Folder Structure
 
-⭐ Thanks for visiting my profile!
+```
+enterprise-zoom-clone
+│
+├── client
+├── server
+├── README.md
+└── package.json
+```
 
-</p>
+---
+
+## 🚀 Future Improvements
+
+- 📅 Meeting Scheduling
+- ☁️ Cloud Recording
+- 🔔 Notifications
+- 👨‍💼 Role-Based Access
+- 📱 Mobile Support
+
+---
+
+## 👨‍💻 Author
+
+**Abhijit Zade**
+
+📧 zadeabhijit5@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/abhijit-zade
+
+🐙 GitHub: https://github.com/Abhijit1617
+
+---
+
+⭐ If you like this project, consider giving it a star.
