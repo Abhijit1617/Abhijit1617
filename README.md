@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Abhijit Zade
 
-<!--
-**Abhijit1617/Abhijit1617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Java Backend Developer
 
-Here are some ideas to get you started:
+💻 Passionate about building scalable backend applications using Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **Enterprise Zoom Clone**
+- 🌱 Learning **Microservices, Docker, AWS & System Design**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL, JWT**
+- 📫 Email: **zadeabhijit5@gmail.com**
+- 🔗 LinkedIn: **https://linkedin.com/in/abhijit-zade**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Java
+- JavaScript
+- SQL
+- C++
+
+**Backend**
+- Spring Boot
+- Spring Security
+- REST APIs
+- JWT
+- Node.js
+- Express.js
+
+**Frontend**
+- React.js
+- HTML
+- CSS
+- Tailwind CSS
+
+**Database**
+- MySQL
+- MongoDB
+
+**Tools**
+- Git
+- GitHub
+- Maven
+- Docker
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 🚀 Featured Projects
+
+### Enterprise Zoom Clone
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Socket.IO
+- WebRTC
+
+### Sentiment Analysis using Deep Learning
+- Python
+- TensorFlow
+- Flask
+- NLP
+
+---
+
+⭐ Thanks for visiting my profile!
