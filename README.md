@@ -1,88 +1,113 @@
 <h1 align="center">Hi 👋, I'm Abhijit Zade</h1>
 
 <p align="center">
-  <b>Java Backend Developer</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Scalable+REST+APIs" />
 </p>
 
 <p align="center">
-Building scalable backend applications with Java & Spring Boot 🚀
+<b>Java Backend Developer | Spring Boot | REST APIs | MySQL | JWT</b>
+</p>
+
+<p align="center">
+Building scalable backend applications 🚀
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 💻 Java Backend Developer
-- 🌱 Learning Spring Boot, Microservices & System Design
 - 🚀 Currently building **Enterprise Zoom Clone**
-- 💬 Interested in Backend Development
+- 🌱 Learning **Spring Boot, Microservices, Docker & System Design**
+- 💬 Ask me about **Java, Spring Boot, REST APIs & MySQL**
 - 🎯 Goal: Become an Enterprise Java Backend Engineer
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,cpp" />
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
 </p>
 
-### Backend
+### ⚙️ Backend
+
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=spring" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="55"/>
 </p>
 
-### Frontend
+### 🎨 Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
 </p>
 
-### Database
+### 🗄 Database
+
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
 </p>
 
-### Tools
+### 🛠 Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,maven" />
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=idea" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven" width="55"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🎥 Enterprise Zoom Clone
 
-Real-time video conferencing platform built with:
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Socket.IO
-- WebRTC
+> Real-time video conferencing platform built with React.js, Node.js, Express.js, MongoDB, Socket.IO & WebRTC.
 
 ### 🤖 Sentiment Analysis using Deep Learning
 
-AI-powered sentiment analysis project using:
-
-- Python
-- TensorFlow
-- Flask
-- NLP
+> Deep Learning project for sentiment analysis using Python, TensorFlow & Flask.
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 
 📧 **Email:** zadeabhijit5@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/abhijit-zade
+💼 **LinkedIn:** www.linkedin.com/in/abhijit-zade
 
-🐙 **GitHub:** https://github.com/Abhijit1617
+🐙 **GitHub:** github.com/Abhijit1617
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+⭐ <b>Thanks for visiting my profile!</b>
 </p>
