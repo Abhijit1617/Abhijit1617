@@ -1,53 +1,44 @@
 <h1 align="center">Hi 👋, I'm Abhijit Zade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Scalable+REST+APIs;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Scalable+REST+APIs" />
 </p>
 
 <p align="center">
-Java Backend Developer | Spring Boot | REST APIs | MySQL | JWT
+  💻 Java • Spring Boot • REST APIs • MySQL • JWT
+</p>
+
+<p align="center">
+  Passionate about building scalable backend applications 🚀
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Building **Enterprise Zoom Clone**
+- 🔭 Currently building **Enterprise Zoom Clone**
 - 🌱 Learning **Microservices, Docker & System Design**
-- 💡 Interested in Backend Development
-- 📫 **zadeabhijit5@gmail.com**
+- 💬 Ask me about **Java, Spring Boot & REST APIs**
+- 📍 India
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mysql,mongodb,git,docker,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhijit1617&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1617&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhijit1617&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1617&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -62,12 +53,31 @@ Java Backend Developer | Spring Boot | REST APIs | MySQL | JWT
 
 ## 🚀 Featured Projects
 
-- 🎥 Enterprise Zoom Clone
-- 🤖 Sentiment Analysis using Deep Learning
+📹 **Enterprise Zoom Clone**
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Socket.IO
+- WebRTC
+
+🤖 **Sentiment Analysis using Deep Learning**
+
+- Python
+- TensorFlow
+- Flask
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-- 📧 **zadeabhijit5@gmail.com**
-- 💼 **linkedin.com/in/abhijit-zade**
+📧 **zadeabhijit5@gmail.com**
+
+💼 **LinkedIn:** https://linkedin.com/in/abhijit-zade
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
