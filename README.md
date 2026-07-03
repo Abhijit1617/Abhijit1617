@@ -1,59 +1,68 @@
 <h1 align="center">Hi 👋, I'm Abhijit Zade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Scalable+REST+APIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer" />
 </p>
 
 <p align="center">
-  💻 Java • Spring Boot • REST APIs • MySQL • JWT
+  <b>Java Backend Developer | Spring Boot | REST APIs | MySQL | JWT</b>
 </p>
 
 <p align="center">
-  Passionate about building scalable backend applications 🚀
+Building scalable backend applications 🚀
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🔭 Currently building **Enterprise Zoom Clone**
-- 🌱 Learning **Microservices, Docker & System Design**
-- 💬 Ask me about **Java, Spring Boot & REST APIs**
-- 📍 India
+- 💻 Java Backend Developer
+- 🚀 Currently building **Enterprise Zoom Clone**
+- 🌱 Learning **Spring Boot, Microservices, Docker & System Design**
+- 💬 Ask me about **Java, Spring Boot, REST APIs & MySQL**
+- 🎯 Goal: Become an Enterprise Java Backend Engineer
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mysql,mongodb,git,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,cpp" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,maven" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
+## 🎥 Enterprise Zoom Clone
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhijit1617&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1617&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Abhijit1617&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-📹 **Enterprise Zoom Clone**
+**Tech Stack**
 
 - React.js
 - Node.js
@@ -62,22 +71,44 @@
 - Socket.IO
 - WebRTC
 
-🤖 **Sentiment Analysis using Deep Learning**
+**Features**
+
+- Video Meetings
+- Screen Sharing
+- Chat
+- Authentication
+
+---
+
+## 🤖 Sentiment Analysis using Deep Learning
+
+**Tech Stack**
 
 - Python
 - TensorFlow
 - Flask
+- NLP
+
+**Features**
+
+- Tweet Sentiment Analysis
+- Deep Learning Model
+- Web Interface
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect
 
-📧 **zadeabhijit5@gmail.com**
+📧 **Email:** zadeabhijit5@gmail.com
 
 💼 **LinkedIn:** https://linkedin.com/in/abhijit-zade
+
+🐙 **GitHub:** https://github.com/Abhijit1617
 
 ---
 
 <p align="center">
+
 ⭐ Thanks for visiting my profile!
+
 </p>
