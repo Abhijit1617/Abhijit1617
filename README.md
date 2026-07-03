@@ -1,79 +1,64 @@
-<h1 align="center">Hi 👋, I'm Abhijit Zade</h1>
+<<h1 align="center">Hi 👋, I'm Abhijit Zade</h1>
+
+<h3 align="center">Java Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Scalable+REST+APIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=550&color=0E75B6&lines=Spring+Boot+Developer;Backend+API+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <b>Java Backend Developer | Spring Boot | REST APIs | MySQL | JWT</b>
-</p>
-
-<p align="center">
-  Passionate about building scalable backend applications 🚀
+Passionate about building scalable backend applications using Java & Spring Boot 🚀
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-- 💻 Java Backend Developer
-- 🚀 Currently building **Enterprise Zoom Clone**
-- 🌱 Learning **Spring Boot, Microservices, Docker & System Design**
-- 💬 Ask me about **Java, Spring Boot, REST APIs & MySQL**
+- 🔭 Working on **Enterprise Zoom Clone**
+- 🌱 Learning **Microservices, Docker & AWS**
+- 💡 Interested in **Backend Development & System Design**
 - 🎯 Goal: Become an Enterprise Java Backend Engineer
 
 ---
 
-# 🛠 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mysql,mongodb,docker,git,github,vscode,idea,postman,maven,cpp&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,mysql,mongodb,docker,git,github,vscode,idea&theme=light" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 📂 Featured Projects
 
-## 🎥 Enterprise Zoom Clone
+### 🎥 Enterprise Zoom Clone
 
-> Enterprise video conferencing platform built using **React.js, Node.js, Express.js, MongoDB, Socket.IO & WebRTC**.
+> Enterprise video conferencing platform built with React.js, Node.js, Express.js, MongoDB, Socket.IO & WebRTC.
 
-### ✨ Features
+### 🤖 Sentiment Analysis
 
-- 🔐 JWT Authentication
-- 🎥 Video Calling
-- 💬 Live Chat
-- 🖥️ Screen Sharing
-- 👥 Meeting Rooms
+> Deep Learning based sentiment analysis using Python, TensorFlow & Flask.
 
 ---
 
-## 🤖 Sentiment Analysis using Deep Learning
+## 📫 Contact Me
 
-> AI-based sentiment analysis system using **Python, TensorFlow & Flask**.
+📧 **Email**
 
-### ✨ Features
+`zadeabhijit5@gmail.com`
 
-- 📊 Sentiment Prediction
-- 🧠 Deep Learning Model
-- 🌐 Web Interface
+💼 **LinkedIn**
 
----
+www.linkedin.com/in/abhijit-zade
 
-# 📫 Connect With Me
+🐙 **GitHub**
 
-<p align="left">
-
-📧 **Email:** zadeabhijit5@gmail.com
-
-💼 **LinkedIn:** www.linkedin.com/in/abhijit-zade
-
-🐙 **GitHub:** github.com/Abhijit1617
-
-</p>
+github.com/Abhijit1617
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
