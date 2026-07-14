@@ -1,57 +1,151 @@
-<h1 align="center">Hi 👋, I'm Abhijit Zade</h1>
+# Hi, I'm Abhijit Zade 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Always+Learning+New+Technologies" />
-</p>
+## Java Full Stack Developer
 
-<p align="center">
-<b>Java Backend Developer • Spring Boot • REST APIs • MySQL • JWT</b>
-</p>
+I am a passionate Java Full Stack Developer who enjoys building secure, scalable, and user-friendly web applications. I love learning new technologies and developing real-world projects that solve practical problems.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently building **Enterprise Zoom Clone**
-- 🌱 Learning **Microservices, Docker & System Design**
-- 💻 Interested in Backend Development
-- 🎯 Open to Java Backend Opportunities
+* 🎓 Computer Science Graduate
+* 💻 Java Full Stack Developer
+* 🌱 Currently learning Spring Boot, React.js, Microservices, Docker and AWS
+* 🔐 Interested in Backend Development and REST API Design
+* 🚀 Always eager to learn new technologies and improve my development skills
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technical Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,mysql,mongodb,docker,git,github,postman,vscode&perline=6" />
-</p>
+### Languages
+
+* Java
+* JavaScript
+* SQL
+* HTML
+* CSS
+
+### Backend
+
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* Hibernate
+* REST API
+* JWT Authentication
+
+### Frontend
+
+* React.js
+* Bootstrap
+* Tailwind CSS
+
+### Database
+
+* MySQL
+* PostgreSQL
+
+### Tools
+
+* Git
+* GitHub
+* Maven
+* Postman
+* VS Code
+* IntelliJ IDEA
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎥 Enterprise Zoom Clone
+## 🛒 Secure E-Commerce Backend API
 
-Enterprise video conferencing platform built with React.js, Node.js, Express.js, MongoDB, Socket.IO and WebRTC.
+A secure REST API for an E-Commerce application developed using Spring Boot and Spring Security.
 
-### 🤖 Sentiment Analysis
+### Key Features
 
-Deep Learning based sentiment analysis using Python, TensorFlow and Flask.
+* User Registration & Login
+* JWT Authentication
+* Role-Based Authorization
+* Product CRUD Operations
+* Order Management
+* MySQL Database
+* Swagger Documentation
+* Global Exception Handling
+
+**Tech Stack**
+
+Java • Spring Boot • Spring Security • JWT • Hibernate • MySQL • Maven
 
 ---
 
-## 📫 Connect
+## 👨‍💼 Employee Management System
 
-📧 **Email**  
-**zadeabhijit5@gmail.com**
+A Full Stack Employee Management System that helps manage employee records through a secure web application.
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/abhijit-zade
+### Key Features
 
-🐙 **GitHub**  
+* Employee CRUD Operations
+* Department Management
+* Search & Filter
+* Pagination
+* JWT Authentication
+* Responsive User Interface
+* REST API Integration
+
+**Tech Stack**
+
+Java • Spring Boot • React.js • MySQL • Spring Security • JWT • Bootstrap
+
+---
+
+## 😊 Sentiment Analysis using Deep Learning
+
+A machine learning project that predicts whether a sentence expresses Positive, Negative or Neutral sentiment.
+
+### Key Features
+
+* Data Preprocessing
+* Text Classification
+* Deep Learning Model
+* Sentiment Prediction
+* Performance Evaluation
+* Data Visualization
+
+**Tech Stack**
+
+Python • TensorFlow • Keras • Pandas • NumPy • Scikit-learn • Matplotlib
+
+---
+
+## 📚 Currently Learning
+
+* Microservices
+* Docker
+* Kubernetes
+* AWS Cloud
+* System Design
+
+---
+
+## 🎯 Career Objective
+
+To work as a Software Developer in an organization where I can apply my technical knowledge, solve real-world problems, continuously learn new technologies, and contribute to building high-quality software solutions.
+
+---
+
+## 📫 Connect With Me
+
+**GitHub**
+
 https://github.com/Abhijit1617
 
 ---
 
-<p align="center">
-<i>Building scalable backend applications, one project at a time.</i>
-</p>
+## Thank You
+
+Thank you for visiting my GitHub profile.
+
+Feel free to explore my repositories and projects. I am always interested in learning, collaborating, and building meaningful software.
+
