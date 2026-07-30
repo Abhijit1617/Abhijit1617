@@ -1,141 +1,146 @@
-👋 Hi, I'm a Java Backend Developer
+# Hi 👋, I'm Abhijit
 
-🎓 Computer Science & Engineering Graduate (2025)📍 Pune, India💻 Focused on building secure, scalable backend applications using Java & Spring Boot
+### Java Backend Developer | Spring Boot | REST APIs | MySQL
 
-🚀 About Me
+I'm a Computer Science graduate and aspiring **Java Backend Developer** passionate about building secure, scalable, and maintainable backend applications.
 
-☕ Java Backend Developer with hands-on experience in Spring Boot
+I enjoy working with **Java, Spring Boot, REST APIs, MySQL, Spring Security, and JWT** and continuously improve my skills by building real-world projects.
 
-🔐 Building secure REST APIs using Spring Security & JWT
+---
 
-🗄️ Working with MySQL, PostgreSQL, Spring Data JPA & Hibernate
+## 👨‍💻 About Me
 
-🐳 Familiar with Docker and backend application containerization
+* 💻 Focused on **Java Backend Development**
+* 🌱 Currently improving **Spring Boot, Spring Security, JPA & Hibernate**
+* 🔐 Interested in **Backend Development, REST APIs & Authentication**
+* 🗄️ Experience working with **MySQL & relational databases**
+* ⚛️ Familiar with **React.js** for frontend development
+* 🤖 Exploring **AI integration with backend applications**
+* 🎯 Looking for opportunities as a **Java Backend Developer / Software Engineer**
 
-🧪 API testing and documentation using Postman & Swagger
+---
 
-🌱 Currently strengthening DSA, System Design, Redis, Kafka & AWS
+## 🛠️ Tech Stack
 
-🎯 Looking for opportunities as a Java Backend Developer / Software Engineer
+### Languages
 
-🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-Languages
+### Backend
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
+### Frontend
 
-Backend
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
+### Database
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-Database
+### Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
+---
 
-Tools
+# 🚀 Featured Projects
 
+## 🔐 Secure User Management System
 
+A secure full-stack user management application designed using **Spring Boot, React.js, MySQL, Spring Security, and JWT authentication**.
 
-💻 Featured Projects
+### Key Features
 
-🔐 Secure User Management System
+* 🔑 Secure user authentication
+* 🛡️ JWT-based authorization
+* 👥 Role-based access control
+* ➕ Add and manage users
+* ✏️ Update user information
+* 🔍 Search and retrieve user data
+* 🗑️ User management operations
+* ⚠️ Global exception handling
+* 📡 RESTful API architecture
+* 🗄️ MySQL database integration
+* ⚛️ React.js frontend integration
 
-Tech Stack: Java • Spring Boot • Spring Security • JWT • MySQL • Docker • Swagger • Postman
+### Tech Stack
 
-Implemented JWT-based authentication using Spring Security
+`Java` `Spring Boot` `Spring Security` `JWT` `Spring Data JPA` `Hibernate` `MySQL` `React.js` `REST API`
 
-Designed role and permission-based authorization
+---
 
-Modeled users, roles and permissions using Spring Data JPA
+## 🤖 AI Interview Assessment Platform
 
-Added Bean Validation for incoming DTOs
+An AI-powered interview assessment platform designed to help candidates practice interviews and evaluate their interview readiness.
 
-Implemented global exception handling with structured API errors
+### Key Features
 
-Tested REST endpoints using Postman
+* 🤖 AI-powered interview assessment
+* 💬 Interview question generation
+* 📊 Candidate performance evaluation
+* 📝 Structured interview feedback
+* 🎯 Interview readiness assessment
+* 🔐 Secure authentication
+* 📡 REST API-based backend architecture
+* 🗄️ Candidate and assessment data management
+* ⚠️ Centralized exception handling
+* 🧠 AI API integration
 
-Documented APIs using Swagger
+### Tech Stack
 
-Containerized the application using Docker
+`Java` `Spring Boot` `REST API` `MySQL` `Spring Data JPA` `AI API` `React.js`
 
-🔗 View Project
+---
 
-🤖 AI Interview Assessment Platform
+# 📊 GitHub Stats
 
-Tech Stack: Java • Spring Boot • MySQL • Docker • Gemini AI • JWT
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
 
-Integrated Gemini AI API into the resume screening workflow
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
 
-Generated an initial assessment score from uploaded resumes
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight)
 
-Implemented role-based dashboard access using JWT
+---
 
-Handled multipart resume and document uploads
+## 🎯 Current Goals
 
-Added event-driven email notifications for interview confirmations
+* ☕ Strengthen **Core Java & Advanced Java**
+* 🌱 Master **Spring Boot & Spring Security**
+* 🧩 Improve **Data Structures & Algorithms**
+* 🏗️ Learn scalable backend architecture
+* 🐳 Explore **Docker & Microservices**
+* ☁️ Learn cloud deployment
+* 🤖 Build more **AI-integrated Java applications**
 
-Tested backend endpoints using Postman
+---
 
-Containerized the backend using Docker
+## 🤝 Connect With Me
 
-🔗 View Project
+💼 **LinkedIn:** Add your LinkedIn profile URL here
 
-📚 Core Computer Science
+📧 **Email:** Add your professional email here
 
-OOP • Collections • Exception Handling • Multithreading • DSA • DBMS • Operating Systems • Computer Networks
+💻 **GitHub:** Add your GitHub profile URL here
 
-🌱 Currently Exploring
+---
 
+### 💡 Developer Philosophy
 
+> Build. Break. Learn. Improve. Repeat.
 
-📄 Research Publication
+⭐ I'm always interested in learning new technologies, building real-world applications, and collaborating on exciting software projects.
 
-Exploring Sentiment Analysis Through Deep Learning: A Comprehensive Review
-
-Worked on sentiment classification using TensorFlow
-
-Exposed the model through a lightweight Flask REST API
-
-Published the work in the International Journal of Innovative Science and Research Technology (IJISRT)
-
-💼 Virtual Experience
-
-Software Engineering Virtual Experience — JPMorgan Chase & Co. (Forage)
-
-Practiced backend engineering fundamentals
-
-Worked with REST API design and basic database concepts
-
-Strengthened debugging and Git-based version control skills
-
-🏆 Certifications
-
-☕ Oracle Java Foundations — Oracle University
-
-☁️ AWS Cloud Practitioner Essentials — AWS Training & Certification
-
-📮 Postman API Fundamentals — Postman Academy
-
-🐙 GitHub Fundamentals — Microsoft
-
-🎓 Education
-
-Bachelor of Engineering — Computer Science & EngineeringSant Gadge Baba Amravati UniversityCGPA: 7.40 / 102021 – 2025
-
-📊 GitHub Stats
-
-
-
-
-
-
-
-🤝 Connect With Me
-
-
-
-💡 Developer Mindset
-
-“Build. Break. Debug. Learn. Repeat.”
-
-⭐ Always learning and improving as a backend developer.
