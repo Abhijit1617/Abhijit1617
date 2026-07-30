@@ -1,151 +1,141 @@
-# Hi, I'm Abhijit Zade 👋
+👋 Hi, I'm a Java Backend Developer
 
-## Java Full Stack Developer
+🎓 Computer Science & Engineering Graduate (2025)📍 Pune, India💻 Focused on building secure, scalable backend applications using Java & Spring Boot
 
-I am a passionate Java Full Stack Developer who enjoys building secure, scalable, and user-friendly web applications. I love learning new technologies and developing real-world projects that solve practical problems.
+🚀 About Me
 
----
+☕ Java Backend Developer with hands-on experience in Spring Boot
 
-## 👨‍💻 About Me
+🔐 Building secure REST APIs using Spring Security & JWT
 
-* 🎓 Computer Science Graduate
-* 💻 Java Full Stack Developer
-* 🌱 Currently learning Spring Boot, React.js, Microservices, Docker and AWS
-* 🔐 Interested in Backend Development and REST API Design
-* 🚀 Always eager to learn new technologies and improve my development skills
+🗄️ Working with MySQL, PostgreSQL, Spring Data JPA & Hibernate
 
----
+🐳 Familiar with Docker and backend application containerization
 
-## 🛠️ Technical Skills
+🧪 API testing and documentation using Postman & Swagger
 
-### Languages
+🌱 Currently strengthening DSA, System Design, Redis, Kafka & AWS
 
-* Java
-* JavaScript
-* SQL
-* HTML
-* CSS
+🎯 Looking for opportunities as a Java Backend Developer / Software Engineer
 
-### Backend
+🛠️ Tech Stack
 
-* Spring Boot
-* Spring Security
-* Spring Data JPA
-* Hibernate
-* REST API
-* JWT Authentication
+Languages
 
-### Frontend
 
-* React.js
-* Bootstrap
-* Tailwind CSS
 
-### Database
+Backend
 
-* MySQL
-* PostgreSQL
 
-### Tools
 
-* Git
-* GitHub
-* Maven
-* Postman
-* VS Code
-* IntelliJ IDEA
+Database
 
----
 
-# 🚀 Featured Projects
 
-## 🛒 Secure E-Commerce Backend API
+Tools
 
-A secure REST API for an E-Commerce application developed using Spring Boot and Spring Security.
 
-### Key Features
 
-* User Registration & Login
-* JWT Authentication
-* Role-Based Authorization
-* Product CRUD Operations
-* Order Management
-* MySQL Database
-* Swagger Documentation
-* Global Exception Handling
+💻 Featured Projects
 
-**Tech Stack**
+🔐 Secure User Management System
 
-Java • Spring Boot • Spring Security • JWT • Hibernate • MySQL • Maven
+Tech Stack: Java • Spring Boot • Spring Security • JWT • MySQL • Docker • Swagger • Postman
 
----
+Implemented JWT-based authentication using Spring Security
 
-## 👨‍💼 Employee Management System
+Designed role and permission-based authorization
 
-A Full Stack Employee Management System that helps manage employee records through a secure web application.
+Modeled users, roles and permissions using Spring Data JPA
 
-### Key Features
+Added Bean Validation for incoming DTOs
 
-* Employee CRUD Operations
-* Department Management
-* Search & Filter
-* Pagination
-* JWT Authentication
-* Responsive User Interface
-* REST API Integration
+Implemented global exception handling with structured API errors
 
-**Tech Stack**
+Tested REST endpoints using Postman
 
-Java • Spring Boot • React.js • MySQL • Spring Security • JWT • Bootstrap
+Documented APIs using Swagger
 
----
+Containerized the application using Docker
 
-## 😊 Sentiment Analysis using Deep Learning
+🔗 View Project
 
-A machine learning project that predicts whether a sentence expresses Positive, Negative or Neutral sentiment.
+🤖 AI Interview Assessment Platform
 
-### Key Features
+Tech Stack: Java • Spring Boot • MySQL • Docker • Gemini AI • JWT
 
-* Data Preprocessing
-* Text Classification
-* Deep Learning Model
-* Sentiment Prediction
-* Performance Evaluation
-* Data Visualization
+Integrated Gemini AI API into the resume screening workflow
 
-**Tech Stack**
+Generated an initial assessment score from uploaded resumes
 
-Python • TensorFlow • Keras • Pandas • NumPy • Scikit-learn • Matplotlib
+Implemented role-based dashboard access using JWT
 
----
+Handled multipart resume and document uploads
 
-## 📚 Currently Learning
+Added event-driven email notifications for interview confirmations
 
-* Microservices
-* Docker
-* Kubernetes
-* AWS Cloud
-* System Design
+Tested backend endpoints using Postman
 
----
+Containerized the backend using Docker
 
-## 🎯 Career Objective
+🔗 View Project
 
-To work as a Software Developer in an organization where I can apply my technical knowledge, solve real-world problems, continuously learn new technologies, and contribute to building high-quality software solutions.
+📚 Core Computer Science
 
----
+OOP • Collections • Exception Handling • Multithreading • DSA • DBMS • Operating Systems • Computer Networks
 
-## 📫 Connect With Me
+🌱 Currently Exploring
 
-**GitHub**
 
-https://github.com/Abhijit1617
 
----
+📄 Research Publication
 
-## Thank You
+Exploring Sentiment Analysis Through Deep Learning: A Comprehensive Review
 
-Thank you for visiting my GitHub profile.
+Worked on sentiment classification using TensorFlow
 
-Feel free to explore my repositories and projects. I am always interested in learning, collaborating, and building meaningful software.
+Exposed the model through a lightweight Flask REST API
 
+Published the work in the International Journal of Innovative Science and Research Technology (IJISRT)
+
+💼 Virtual Experience
+
+Software Engineering Virtual Experience — JPMorgan Chase & Co. (Forage)
+
+Practiced backend engineering fundamentals
+
+Worked with REST API design and basic database concepts
+
+Strengthened debugging and Git-based version control skills
+
+🏆 Certifications
+
+☕ Oracle Java Foundations — Oracle University
+
+☁️ AWS Cloud Practitioner Essentials — AWS Training & Certification
+
+📮 Postman API Fundamentals — Postman Academy
+
+🐙 GitHub Fundamentals — Microsoft
+
+🎓 Education
+
+Bachelor of Engineering — Computer Science & EngineeringSant Gadge Baba Amravati UniversityCGPA: 7.40 / 102021 – 2025
+
+📊 GitHub Stats
+
+
+
+
+
+
+
+🤝 Connect With Me
+
+
+
+💡 Developer Mindset
+
+“Build. Break. Debug. Learn. Repeat.”
+
+⭐ Always learning and improving as a backend developer.
