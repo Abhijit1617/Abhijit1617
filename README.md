@@ -1,90 +1,132 @@
-# 👋 Hey! I'm Abhijit R. Zade
+# 👋 Hi, I'm Abhijit R. Zade
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Java+Backend+Developer+%F0%9F%92%BB;Spring+Boot+%7C+REST+APIs+%7C+JWT;Docker+%7C+AWS+%7C+CI%2FCD;Building+Backend+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Spring+Security+%7C+JWT;Docker+%7C+AWS+EC2;Building+Backend+Systems+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <b>Computer Science & Engineering Graduate | Java Backend Developer</b>
+  <a href="https://github.com/Abhijit1617">
+    <img src="https://img.shields.io/badge/GitHub-Abhijit1617-181717?style=flat-square&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/abhijit-zade">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhijit%20Zade-0A66C2?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="mailto:zadeabhijit5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```java
-public class Abhijit {
+I'm a **Computer Science & Engineering graduate** focused on **Java Backend Development**.
 
-    String role = "Java Backend Developer";
-    String primaryLanguage = "Java";
+I enjoy building backend applications and understanding how systems work internally — from REST APIs and authentication to databases, networking and deployment.
 
-    String[] backend = {
-        "Spring Boot",
-        "REST APIs",
-        "Spring Data JPA"
-    };
-
-    String[] security = {
-        "Spring Security",
-        "JWT"
-    };
-
-    String[] tools = {
-        "Git",
-        "GitHub",
-        "Maven",
-        "Docker",
-        "Postman"
-    };
-
-    String cloud = "AWS EC2";
-}
+```text
+Java Backend
+     │
+     ├── Spring Boot
+     ├── REST APIs
+     ├── Spring Security
+     ├── JWT
+     ├── JPA / Hibernate
+     │
+     ├── MySQL / PostgreSQL
+     │
+     └── Docker / AWS EC2
 ```
 
 ---
 
-## ⚡ What I Work With
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,aws,git,github,maven,postman" />
-
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,aws,git,github,maven,postman&perline=5" />
 </p>
 
+### Languages
+
+`Java` `SQL`
+
+### Backend
+
+`Spring Boot` `Spring Data JPA` `REST APIs`
+
+### Security
+
+`Spring Security` `JWT`
+
+### Database
+
+`MySQL` `PostgreSQL`
+
+### Tools
+
+`Git` `GitHub` `Maven` `Docker` `Postman` `Swagger / OpenAPI`
+
+### Cloud
+
+`AWS EC2`
+
 ---
 
-## 🚀 My Projects
+# 🚀 Featured Projects
 
-### 🔐 01. Secure User Management System
+## 🔐 Secure User Management System
 
-> A secure backend application built with Java and Spring Boot.
+**Java • Spring Boot • Spring Security • JWT • MySQL • Docker • AWS EC2**
 
-**Tech Stack**
+A secure backend application for user registration, authentication and account management.
 
-`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `MySQL` `Docker` `AWS EC2`
+### ✨ Highlights
 
-**Features**
+* 🔑 User registration & authentication
+* 🛡️ JWT-based authentication
+* 👥 Role-based access control
+* 🗄️ User, Role & Permission relationships
+* ✅ DTO validation
+* ⚠️ Global exception handling
+* 🐳 Docker containerization
+* ☁️ AWS EC2 deployment
 
-* 🔑 User Registration & Authentication
-* 🛡️ JWT Authentication
-* 👥 Role-Based Access Control
-* 🗄️ MySQL Database
-* ✅ DTO Validation
-* ⚠️ Global Exception Handling
-* 🐳 Docker Containerization
-* ☁️ AWS EC2 Deployment
+**Architecture**
+
+```text
+Client
+  │
+  ▼
+REST Controller
+  │
+  ▼
+Service Layer
+  │
+  ▼
+Repository
+  │
+  ▼
+MySQL
+```
 
 ---
 
-### 🔴 02. Redis Server Implementation
+## 🔴 Redis Server Implementation
 
-> A Redis-inspired server implemented from scratch using Java TCP sockets.
+**Java • TCP Sockets • Docker**
 
-**Tech Stack**
+A Redis-inspired server implemented using **Java TCP sockets** to understand networking and server-side request processing.
 
-`Java` `TCP Sockets` `Docker`
+### ✨ Highlights
 
-**Supported Commands**
+* 🔌 TCP client-server communication
+* ⚡ In-memory data storage
+* 🔍 Request parsing
+* 📤 Response handling
+* 🧩 Redis-like command format
+* 🐳 Dockerized execution
+
+### Supported Commands
 
 ```text
 PING
@@ -93,59 +135,95 @@ GET
 INFO
 ```
 
-**Features**
+**Flow**
 
-* 🔌 TCP Client-Server Communication
-* ⚡ In-Memory Data Storage
-* 🔍 Request Parsing
-* 📤 Response Handling
-* 🐳 Docker Support
-
----
-
-### 🗄️ 03. MiniDB — Disk-Based Database Engine
-
-> A small database engine built to understand how database systems work internally.
-
-**Tech Stack**
-
-`Java 21` `Maven` `File Storage` `B+ Tree`
-
-**Features**
-
-* ➕ Insert
-* 🔎 Select
-* ✏️ Update
-* 🗑️ Delete
-* 🌳 B+ Tree Index
-* ⚡ In-Memory Cache
-* 💾 Disk-Based Storage
+```text
+TCP Client
+    │
+    ▼
+Java Server
+    │
+    ├── Parse Request
+    │
+    ├── Execute Command
+    │
+    └── Send Response
+```
 
 ---
 
-## 🧠 Currently Learning
+## 🗄️ MiniDB — Disk-Based Database Engine
+
+**Java 21 • Maven • File Storage • B+ Tree**
+
+A small database engine built to understand **disk storage, indexing and database internals**.
+
+### ✨ Highlights
+
+* ➕ Insert records
+* 🔎 Select records
+* ✏️ Update records
+* 🗑️ Delete records
+* 💾 File-based persistent storage
+* 🌳 B+ Tree indexing
+* ⚡ In-memory cache
+* 🔒 Basic safeguards for shared data access
+
+**Database Flow**
+
+```text
+Application
+     │
+     ▼
+Database Engine
+     │
+     ├── Cache
+     │
+     ├── B+ Tree Index
+     │
+     └── File Storage
+```
+
+---
+
+# 📚 Currently Learning
 
 <p align="center">
 
-`Spring Boot` → `Docker` → `AWS` → `CI/CD` → `System Design`
+`Docker` → `AWS EC2` → `CI/CD` → `System Design` → `Advanced Backend`
 
 </p>
 
 ---
 
-## 📈 GitHub Activity
+# 🎯 2026 Focus
+
+```text
+Java Backend Development
+        ↓
+Spring Boot & Security
+        ↓
+Docker & Containerization
+        ↓
+AWS Deployment
+        ↓
+CI/CD
+        ↓
+Backend System Design
+```
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijit1617&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhijit1617&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhijit1617&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1617&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Animation
+# 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhijit1617/Abhijit1617/output/github-contribution-grid-snake.svg" />
@@ -153,34 +231,20 @@ INFO
 
 ---
 
-## 🎯 2026 Goals
-
-```text
-☑ Improve Java & Spring Boot
-☑ Build Real Backend Projects
-☑ Learn Docker
-☑ Learn AWS
-☐ Build CI/CD Pipelines
-☐ Improve System Design
-☐ Contribute to Open Source
-```
-
----
-
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Abhijit1617">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/abhijit-zade">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:zadeabhijit5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -188,5 +252,10 @@ INFO
 ---
 
 <p align="center">
-  <i>“Build. Learn. Improve. Repeat.” 🚀</i>
+  <b>💻 Code • Build • Learn • Repeat 🚀</b>
 </p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories.
+</p>
+
