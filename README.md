@@ -1,134 +1,192 @@
-# 👋 Hi, I'm Abhijit R. Zade
+# 👋 Hey! I'm Abhijit R. Zade
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Learning+Docker+%7C+AWS+%7C+CI%2FCD" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Java+Backend+Developer+%F0%9F%92%BB;Spring+Boot+%7C+REST+APIs+%7C+JWT;Docker+%7C+AWS+%7C+CI%2FCD;Building+Backend+Projects+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhijit1617&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <b>Computer Science & Engineering Graduate | Java Backend Developer</b>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-🎓 Computer Science & Engineering Graduate — 2025
+```java
+public class Abhijit {
 
-💻 Focused on **Java Backend Development**
+    String role = "Java Backend Developer";
+    String primaryLanguage = "Java";
 
-🔐 Interested in **Backend Security & Authentication**
+    String[] backend = {
+        "Spring Boot",
+        "REST APIs",
+        "Spring Data JPA"
+    };
 
-☁️ Learning **Docker, AWS & CI/CD**
+    String[] security = {
+        "Spring Security",
+        "JWT"
+    };
 
-🗄️ Interested in **Database Systems & Backend Architecture**
+    String[] tools = {
+        "Git",
+        "GitHub",
+        "Maven",
+        "Docker",
+        "Postman"
+    };
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-`Java` `SQL`
-
-### ⚙️ Backend
-
-`Spring Boot` `Spring Data JPA` `REST APIs`
-
-### 🔐 Security
-
-`Spring Security` `JWT`
-
-### 🗄️ Database
-
-`MySQL` `PostgreSQL`
-
-### 🧰 Tools
-
-`Git` `GitHub` `Maven` `Docker` `Postman` `Swagger`
-
-### ☁️ Cloud
-
-`AWS EC2`
-
----
-
-## 📌 Featured Projects
-
-### 🔐 Secure User Management System
-
-**Java • Spring Boot • Spring Security • JWT • MySQL • Docker • AWS EC2**
-
-* User registration and authentication
-* JWT-based authentication
-* Role-based access control
-* DTO validation
-* Global exception handling
-* Docker containerization
-* AWS EC2 deployment
-
----
-
-### 🔴 Redis Server Implementation
-
-**Java • TCP Sockets • Docker**
-
-* Built a Redis-inspired server using Java TCP sockets
-* Implemented `PING`, `SET`, `GET`, and `INFO`
-* Added request parsing and response handling
-* Used an in-memory data store
-* Containerized using Docker
-
----
-
-### 🗄️ MiniDB — Disk-Based Database Engine
-
-**Java 21 • Maven • File Storage • B+ Tree**
-
-* Disk-based record storage
-* Insert, Select, Update and Delete operations
-* B+ Tree indexing
-* In-memory cache
-* Basic concurrent data-access safeguards
-
----
-
-## 📚 Currently Learning
-
-```text
-Java Backend
-     ↓
-Spring Boot
-     ↓
-REST APIs & Security
-     ↓
-Docker
-     ↓
-AWS EC2
-     ↓
-CI/CD
+    String cloud = "AWS EC2";
+}
 ```
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ What I Work With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijit1617&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1617&layout=compact&hide_border=true" height="165"/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,aws,git,github,maven,postman" />
+
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🚀 My Projects
+
+### 🔐 01. Secure User Management System
+
+> A secure backend application built with Java and Spring Boot.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `MySQL` `Docker` `AWS EC2`
+
+**Features**
+
+* 🔑 User Registration & Authentication
+* 🛡️ JWT Authentication
+* 👥 Role-Based Access Control
+* 🗄️ MySQL Database
+* ✅ DTO Validation
+* ⚠️ Global Exception Handling
+* 🐳 Docker Containerization
+* ☁️ AWS EC2 Deployment
+
+---
+
+### 🔴 02. Redis Server Implementation
+
+> A Redis-inspired server implemented from scratch using Java TCP sockets.
+
+**Tech Stack**
+
+`Java` `TCP Sockets` `Docker`
+
+**Supported Commands**
+
+```text
+PING
+SET
+GET
+INFO
+```
+
+**Features**
+
+* 🔌 TCP Client-Server Communication
+* ⚡ In-Memory Data Storage
+* 🔍 Request Parsing
+* 📤 Response Handling
+* 🐳 Docker Support
+
+---
+
+### 🗄️ 03. MiniDB — Disk-Based Database Engine
+
+> A small database engine built to understand how database systems work internally.
+
+**Tech Stack**
+
+`Java 21` `Maven` `File Storage` `B+ Tree`
+
+**Features**
+
+* ➕ Insert
+* 🔎 Select
+* ✏️ Update
+* 🗑️ Delete
+* 🌳 B+ Tree Index
+* ⚡ In-Memory Cache
+* 💾 Disk-Based Storage
+
+---
+
+## 🧠 Currently Learning
 
 <p align="center">
-  <a href="https://github.com/Abhijit1617">GitHub</a> •
-  <a href="https://linkedin.com/in/abhijit-zade">LinkedIn</a> •
-  <a href="mailto:zadeabhijit5@gmail.com">Email</a>
+
+`Spring Boot` → `Docker` → `AWS` → `CI/CD` → `System Design`
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijit1617&show_icons=true&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhijit1617&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhijit1617/Abhijit1617/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+```text
+☑ Improve Java & Spring Boot
+☑ Build Real Backend Projects
+☑ Learn Docker
+☑ Learn AWS
+☐ Build CI/CD Pipelines
+☐ Improve System Design
+☐ Contribute to Open Source
+```
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Abhijit1617">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/abhijit-zade">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:zadeabhijit5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <i>“Build. Learn. Improve. Repeat.” 🚀</i>
 </p>
